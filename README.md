@@ -79,11 +79,3 @@ Yangi post qoshish, shunday amalga oshiriladi, bunda ham headerda key borishi ke
   "statusCode": 100
 }
 ```
-
-
-
-
-
-
-
-
