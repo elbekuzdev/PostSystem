@@ -64,4 +64,4 @@ Va shunday javob paytadi, responsedagi <code>data</code> key hisoblanadi. Server
   <span class="hljs-attr">"statusCode"</span>: <span class="hljs-number">100</span>
 }
 </code></pre>
-<p><h3>Natija</h3></p>
+
